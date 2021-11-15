@@ -1,4 +1,4 @@
-# Project-2-
+# Project 2
 This is Project 2 of the course.  
 
 Project Title
